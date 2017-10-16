@@ -1,7 +1,7 @@
 package com.stackroute.foodapp.service;
 
 import com.stackroute.foodapp.domain.Restaurant;
-import com.stackroute.foodapp.service.jpa_impl.UserNotFoundException;
+import com.stackroute.foodapp.exceptions.UserNotFoundException;
 
 public interface FavouriteService {
 	public Restaurant getbyid(int id) throws UserNotFoundException;

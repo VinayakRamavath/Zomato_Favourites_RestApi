@@ -1,15 +1,12 @@
 # Zomato_Favourites_RestApi
-HackathonSpring
 
-This is the project submitted for Hackathon Project demonstrating a Spring REST API
+This is the project submitted for Creating a Rest Api.
 
-To be able to run this application, you will have to create a MySQL database "DB" with the credentials:
+To be able to run this application, you will have to create a MySQL database "db_example" with the credentials:
 
 username: root password: root
 
-To run the application, use src/main/java/com/stackroute/hackathon/Application.java
-
-Swagger Documentation
+#Swagger Documentation
 
 Please follow the following Swagger HTML for using the API whilst running the application.
 

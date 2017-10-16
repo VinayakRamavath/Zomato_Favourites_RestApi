@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.stackroute.foodapp.domain.Restaurant;
+import com.stackroute.foodapp.exceptions.UserNotFoundException;
 import com.stackroute.foodapp.repository.UserRepository;
 import com.stackroute.foodapp.service.FavouriteService;
 

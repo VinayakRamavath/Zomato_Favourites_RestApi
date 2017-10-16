@@ -1,4 +1,4 @@
-package com.stackroute.foodapp.service.jpa_impl;
+package com.stackroute.foodapp.exceptions;
 
 
 

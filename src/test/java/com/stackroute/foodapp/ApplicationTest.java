@@ -59,7 +59,6 @@ public class ApplicationTest  extends TestCase {
                 HttpMethod.POST, entity, String.class); 
         assertNotNull(response);
         String actual = response.getBody();
-        System.out.println(actual);
         assertEquals("Saved",actual);
     }
     
@@ -86,7 +85,6 @@ public class ApplicationTest  extends TestCase {
                 HttpMethod.PUT, entity, String.class); 
         assertNotNull(response);
         String actual = response.getBody();
-        System.out.println(actual);
         assertEquals("Updated",actual);
     }
     
@@ -100,7 +98,6 @@ public class ApplicationTest  extends TestCase {
                 HttpMethod.DELETE, entity, String.class); 
         assertNotNull(response);
         String actual = response.getBody();
-        System.out.println(actual);
         assertEquals("Deleted",actual);
     }
     
