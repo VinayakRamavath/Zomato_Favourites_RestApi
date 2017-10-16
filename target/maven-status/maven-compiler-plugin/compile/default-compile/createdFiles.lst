@@ -1,0 +1,7 @@
+com/stackroute/foodapp/service/FavouriteService.class
+com/stackroute/foodapp/controllers/MainController.class
+com/stackroute/foodapp/domain/User.class
+com/stackroute/foodapp/service/jpa_impl/FavouriteServiceImpl.class
+com/stackroute/foodapp/Application.class
+com/stackroute/foodapp/swagger/SwaggerConfig.class
+com/stackroute/foodapp/repository/UserRepository.class
